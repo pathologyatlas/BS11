@@ -16,14 +16,14 @@ output_type <- knitr::opts_knit$get("rmarkdown.pandoc.to")
 
 
 ```
-asis sesil serrated adenoma lesion polyp , echo = (language == "TR")
-## BS11 - sesil serrated adenoma lesion polyp {#sec-BS11 }
+asis sesile serrated adenoma lesion polyp , echo = (language == "TR")
+## BS11 - sesile serrated adenoma lesion polyp {#sec-BS11 }
 ```
 
 
 ```
-asis sesil serrated adenoma lesion polyp , echo = (language == "EN")
-## BS11 - sesil serrated adenoma lesion polyp {#sec-BS11 }
+asis sesile serrated adenoma lesion polyp , echo = (language == "EN")
+## BS11 - sesile serrated adenoma lesion polyp {#sec-BS11 }
 ```
 
 
@@ -59,7 +59,7 @@ webshot2::webshot(
 ```
 asis, echo = (language == "TR")
 
-**sesil serrated adenoma lesion polyp**
+**sesile serrated adenoma lesion polyp**
 
 
 [![Tam Ekran Görmek İçin Resmi Tıklayın](./screenshots/BS11-HE_screenshot.png){width="25%"}](https://images.patolojiatlasi.com/BS11/HE.html) [Tam Ekran Görmek İçin Resmi Tıklayın](https://images.patolojiatlasi.com/BS11/HE.html)
@@ -68,7 +68,7 @@ asis, echo = (language == "TR")
 ```
 asis, echo = (language == "EN")
 
-**sesil serrated adenoma lesion polyp**
+**sesile serrated adenoma lesion polyp**
 
 [![Click for Full Screen WSI](./screenshots/BS11-HE_screenshot.png){width="25%"}](https://images.patolojiatlasi.com/BS11/HE.html) [Click for Full Screen WSI](https://images.patolojiatlasi.com/BS11/HE.html)
 
@@ -122,7 +122,7 @@ asis, echo = (language == "TR")
 ::: {.callout-tip collapse="true" appearance="default" icon="true"}
 ### Tanı için tıklayın
 
-sesil serrated adenoma lesion polyp
+sesile serrated adenoma lesion polyp
 
 :::
 
@@ -137,7 +137,7 @@ asis, echo = (language == "EN")
 ::: {.callout-tip collapse="true" appearance="default" icon="true"}
 ### Click for Diagnosis
 
-sesil serrated adenoma lesion polyp
+sesile serrated adenoma lesion polyp
 
 :::
 
